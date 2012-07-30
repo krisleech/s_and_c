@@ -1,0 +1,5 @@
+s&c - server and console
+
+One letter commands to run Rails server and console.
+
+It will run the correct command even if you are in a Rails engine.
